@@ -2,10 +2,16 @@ In this project, you took the first steps towards addressing this problem by bui
 
 The high level steps of the project include:
 
-1- Created a CNN to Classify Landmarks (from Scratch), visualized the dataset, and processed it for training
+1- Created a CNN to Classify Landmarks (from Scratch), visualized the dataset, and processed it for training.
+
 2- Built a convolutional neural network from scratch to classify the landmarks. 
-3- Described some of your decisions around data processing and how you chose your network architecture. You will then export your best network using Torch Script.
-4- Created a CNN to Classify Landmarks (using Transfer Learning) 
+
+3- Described some of your decisions around data processing and how you chose your network architecture and exported out best network using Torch Script.
+
+4- Created a CNN to Classify Landmarks (using Transfer Learning) .
+
 5- Investigated different pre-trained models and decide on one to use for this classification task. 
-6- Along with training and testing this transfer-learned network, explained how you arrived at the pre-trained network you chose. 
+
+6- Along with training and testing this transfer-learned network, explained how we arrived at the pre-trained network we chosed. 
+
 7- Exported our best transfer learning solution using Torch Script.
