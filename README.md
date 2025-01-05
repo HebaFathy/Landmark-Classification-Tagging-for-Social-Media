@@ -1,6 +1,6 @@
 In this project, you took the first steps towards addressing this problem by building models to automatically predict the location of the image based on any landmarks depicted in the image. We gone through the machine learning design process end-to-end: performing data preprocessing, designing and training CNNs, comparing the accuracy of different CNNs, and deploying an app based on the best CNN you trained.
 
-The high level steps of the project include:
+### The high level steps of the project included:
 
 1- Created a CNN to Classify Landmarks (from Scratch), visualized the dataset, and processed it for training.
 
